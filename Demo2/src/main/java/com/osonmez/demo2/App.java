@@ -12,6 +12,6 @@ public class App
     }
     
     public int get(){
-    	return 1;
+    	return 2;
     }
 }
